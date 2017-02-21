@@ -6,7 +6,7 @@ This is domino challenge project. It is in the middle of development.
 
 * Clone repository with command:
 
-        git clone https://yef71@bitbucket.org/yef71/domino-challenge.git
+        git clone https://github.com/yef/domino-challenge.git
 
 * Run Jetty with Maven:
 
