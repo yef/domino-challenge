@@ -1,0 +1,11 @@
+build/
+target/
+bin/
+out/
+.classpath
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+*.idea
